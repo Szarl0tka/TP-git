@@ -1,4 +1,4 @@
-### application.bat - 2014 - Charlotte Rosel-Navarro ###
+### application.bat - 2014 - Mathieu Templier ###
 version = "2"
 build_hour = "11H00"
 
